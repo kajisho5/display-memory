@@ -1,2 +1,15 @@
-# display-memory
-Remember external display resolution and arrangement on Mac.
+# display-memory（仮名）
+
+**モニター配置の記憶**
+
+## 課題（Mac標準の不便）
+外部モニター接続のたびに解像度と配置が崩れる。
+
+## 計画している機能
+- 構成プロファイルの保存と自動復元
+- 解像度の詳細選択
+- 接続イベント連動
+
+## ステータス
+仮名・構想段階。2026-10-26に「Mac標準の足りないところ」候補としてリポジトリを作成。
+出典リスト: ~/workspace/apps/macos-builtin-pain-points.md
